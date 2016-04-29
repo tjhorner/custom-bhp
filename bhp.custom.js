@@ -67,6 +67,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     addStyleFor(".activityItem", "box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.46);");
     addBackgroundForColor("purple", "https://tjhorner.com/wallpapers/Twi.png", "0px 10%");
     addBackgroundForColor("lightpurple", "https://tjhorner.com/wallpapers/Twi.png", "0px 10%");
-    addBackgroundForColor("lightgray", "https://b7e01c33.ngrok.io/derpy.png", "0px 80%");
+    addBackgroundForColor("lightgray", "https://tjhorner.com/custom-bhp/derpy.png", "0px 80%");
   }
 });
